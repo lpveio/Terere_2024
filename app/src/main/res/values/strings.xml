@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Terere</string>
+    <string name="tempo">TEMPO UTC</string>
+    <string name="top">TOP</string>
+</resources>

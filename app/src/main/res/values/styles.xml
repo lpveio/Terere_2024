@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="big_text" parent="display_text">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="big_time" parent="display_time">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="big_value" parent="display_value">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="medium_text" parent="display_text">
+        <item name="android:textSize">@dimen/medium</item>
+    </style>
+
+    <style name="medium_time" parent="display_time">
+        <item name="android:textSize">@dimen/medium</item>
+    </style>
+
+    <style name="medium_value" parent="display_value">
+        <item name="android:textSize">@dimen/medium</item>
+    </style>
+
+    <style name="xbig_time" parent="display_time">
+        <item name="android:textSize">40sp</item>
+    </style>
+</resources>
